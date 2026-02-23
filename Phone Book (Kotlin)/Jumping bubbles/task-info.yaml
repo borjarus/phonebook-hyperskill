@@ -1,0 +1,10 @@
+type: edu
+files:
+  - name: src/phonebook/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/PhoneBookTest.java
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/86/stages/477/implement#comment
+status: Unchecked
+record: -1
